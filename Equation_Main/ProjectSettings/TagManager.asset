@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Item
+  - Equation
+  - Character
+  - bullet_eq
+  - bullet_default
+  - bullet_eq_shoot
+  - bullet_default_shoot
+  - MapEdge
+  - super
+  - magnet
+  - time
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2903894639
+    locked: 0
+  - name: Window
+    uniqueID: 3381994059
+    locked: 0
+  - name: Character
+    uniqueID: 2818399989
+    locked: 0
+  - name: Item
+    uniqueID: 2266428143
+    locked: 0
+  - name: Equation
+    uniqueID: 1894569559
+    locked: 0
+  - name: Bullet
+    uniqueID: 1960622117
+    locked: 0
